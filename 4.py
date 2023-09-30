@@ -20,3 +20,4 @@ for i in range (n):
 print("El producto de todos los numeros es: ", producto)
 print("El producto de los numeros pares es: ", par)
 print("El producto de los numeros impares es: ", impar)
+print()
